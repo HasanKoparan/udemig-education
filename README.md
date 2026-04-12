@@ -3,6 +3,7 @@
 A modern and responsive education platform website built with HTML5, SCSS, and JavaScript. Features a full navigation menu, course sections, contact form, and a professional multi-column footer.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/udemig-education)**
+https://hasankoparan.github.io/udemig-education/
 
 -----
 
