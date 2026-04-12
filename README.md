@@ -16,6 +16,14 @@ A modern and responsive education platform website built with HTML5, SCSS, and J
 - 📱 Fully responsive layout
 - 🎨 Modern dark-themed UI with orange accent color
 
+<img width="600" height="347" alt="Ekran Resmi 2026-04-12 23 14 21" src="https://github.com/user-attachments/assets/091cf7e2-fd99-4ddd-a4a0-6bee224aebac" />
+
+<img width="600" height="348" alt="Ekran Resmi 2026-04-12 23 14 46" src="https://github.com/user-attachments/assets/71a1e253-e3e8-483c-a621-e7f00b7460e6" />
+
+<img width="600" height="346" alt="Ekran Resmi 2026-04-12 23 15 08" src="https://github.com/user-attachments/assets/106db6dc-b88d-4fc0-a148-92edf1dca879" />
+
+
+
 -----
 
 ## 🛠️ Built With
