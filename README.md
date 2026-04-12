@@ -24,11 +24,13 @@ A modern and responsive real estate website built with HTML5, CSS3, and Bootstra
 - 📱 Fully responsive design for all screen sizes
 - 🎨 Clean, professional UI with dark and light sections
 
-<img width="600" height="314" alt="Ekran Resmi 2026-04-12 23 02 49" src="https://github.com/user-attachments/assets/2264c53a-721e-4478-94df-6474bc5eb463" />
-<img width="600" height="344" alt="Ekran Resmi 2026-04-12 23 01 50" src="https://github.com/user-attachments/assets/78be73a6-269b-4356-9c47-484fc68c90be" />
-<img width="600" height="340" alt="Ekran Resmi 2026-04-12 23 01 28" src="https://github.com/user-attachments/assets/6d6b6b3b-72dc-4164-b8fb-011c664b83ab" />
 <img width="600" height="341" alt="Ekran Resmi 2026-04-12 23 00 41" src="https://github.com/user-attachments/assets/566c55da-e297-4c7b-943c-5ad6fca58aa8" />
 
+<img width="600" height="340" alt="Ekran Resmi 2026-04-12 23 01 28" src="https://github.com/user-attachments/assets/6d6b6b3b-72dc-4164-b8fb-011c664b83ab" />
+
+<img width="600" height="344" alt="Ekran Resmi 2026-04-12 23 01 50" src="https://github.com/user-attachments/assets/78be73a6-269b-4356-9c47-484fc68c90be" />
+
+<img width="600" height="314" alt="Ekran Resmi 2026-04-12 23 02 49" src="https://github.com/user-attachments/assets/2264c53a-721e-4478-94df-6474bc5eb463" />
 
 ---
 
