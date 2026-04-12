@@ -16,15 +16,13 @@ A modern and responsive education platform website built with HTML5, SCSS, and J
 - 📱 Fully responsive layout
 - 🎨 Modern dark-themed UI with orange accent color
 
-<img width="600" height="345" alt="Ekran Resmi 2026-04-12 22 44 30" src="https://github.com/user-attachments/assets/5a222114-ff65-46d2-addc-911158d71de1" />
-<img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 44 14" src="https://github.com/user-attachments/assets/b79dcfc2-01e9-417f-956c-dc6a6332f95e" />
-<img width="600" height="346" alt="Ekran Resmi 2026-04-12 22 43 55" src="https://github.com/user-attachments/assets/5f719522-4f7d-4f75-80d3-1b9a3ecdbad3" />
 <img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 43 06" src="https://github.com/user-attachments/assets/38376b82-3330-48af-9e2b-d1cd8346ee68" />
 
+<img width="600" height="346" alt="Ekran Resmi 2026-04-12 22 43 55" src="https://github.com/user-attachments/assets/5f719522-4f7d-4f75-80d3-1b9a3ecdbad3" />
 
+<img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 44 14" src="https://github.com/user-attachments/assets/b79dcfc2-01e9-417f-956c-dc6a6332f95e" />
 
-
-
+<img width="600" height="345" alt="Ekran Resmi 2026-04-12 22 44 30" src="https://github.com/user-attachments/assets/5a222114-ff65-46d2-addc-911158d71de1" />
 
 -----
 
