@@ -1,71 +1,72 @@
-# 🎓 Udemig Education
+# 🏢 Emaartech Project
 
-A modern and responsive education platform website built with HTML5, SCSS, and JavaScript. Features a full navigation menu, course sections, contact form, and a professional multi-column footer.
+A modern and responsive real estate website built with HTML5, CSS3, and Bootstrap 5.
 
-🔗 **[Live Demo](https://hasankoparan.github.io/udemig-education)**
+🔗 [Live Demo](#) <!-- GitHub Pages linkin olursa buraya ekle -->
 
------
+---
+
+## 📸 Project Preview
+
+<!-- GIF veya screenshots buraya -->
+
+---
 
 ## ✨ Features
 
-- 🏠 Hero section with full-width background image and CTA
-- 🧭 Interactive navigation menu with social media links
-- 📚 Courses section (Frontend, Backend, React Native, English)
-- 📬 Contact form with name, surname and message fields
-- 🔗 Multi-column footer with services, about, help and social links
-- 📱 Fully responsive layout
-- 🎨 Modern dark-themed UI with orange accent color
+- 🖼️ Full-width hero section with image slider (Bootstrap Carousel)
+- 🏠 Popular residences section with property cards
+- 🛎️ Services section with split-image layout
+- 💬 Customer testimonials slider
+- 📰 Blog / news cards section
+- ❓ FAQ accordion
+- 🤝 Partner logos / trust section
+- 📱 Fully responsive design for all screen sizes
+- 🎨 Clean, professional UI with dark and light sections
 
-<img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 43 06" src="https://github.com/user-attachments/assets/38376b82-3330-48af-9e2b-d1cd8346ee68" />
+<img width="600" height="314" alt="Ekran Resmi 2026-04-12 23 02 49" src="https://github.com/user-attachments/assets/2264c53a-721e-4478-94df-6474bc5eb463" />
+<img width="600" height="344" alt="Ekran Resmi 2026-04-12 23 01 50" src="https://github.com/user-attachments/assets/78be73a6-269b-4356-9c47-484fc68c90be" />
+<img width="600" height="340" alt="Ekran Resmi 2026-04-12 23 01 28" src="https://github.com/user-attachments/assets/6d6b6b3b-72dc-4164-b8fb-011c664b83ab" />
+<img width="600" height="341" alt="Ekran Resmi 2026-04-12 23 00 41" src="https://github.com/user-attachments/assets/566c55da-e297-4c7b-943c-5ad6fca58aa8" />
 
-<img width="600" height="346" alt="Ekran Resmi 2026-04-12 22 43 55" src="https://github.com/user-attachments/assets/5f719522-4f7d-4f75-80d3-1b9a3ecdbad3" />
 
-<img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 44 14" src="https://github.com/user-attachments/assets/b79dcfc2-01e9-417f-956c-dc6a6332f95e" />
+---
 
-<img width="600" height="345" alt="Ekran Resmi 2026-04-12 22 44 30" src="https://github.com/user-attachments/assets/5a222114-ff65-46d2-addc-911158d71de1" />
-
------
-
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - **HTML5** — Semantic page structure
-- **SCSS (Sass)** — Modular stylesheets with variables and nesting
-- **JavaScript** — Interactive navigation and UI effects
-- **CSS3** — Custom animations and transitions
+- **CSS3** — Custom styling and layout
+- **Bootstrap 5** — Grid system, carousel, accordion, and components
 
------
+---
 
 ## 📁 Project Structure
 
-```
-udemig-education/
-├── index.html      # Main page markup
-├── styles/         # SCSS partials and compiled CSS
-├── js/             # JavaScript files
-└── images/         # Visual assets
-```
+emaartech_project/
+├── index.html        # Main page markup
+├── style.css         # Custom styles
+├── images/           # Property and UI images
+└── screenshots/      # Project preview screenshots
 
------
+---
 
 ## 🚀 Getting Started
 
 No installation needed.
 
-```bash
-git clone https://github.com/HasanKoparan/udemig-education.git
-```
+git clone https://github.com/HasanKoparan/Emaartech_project.git
 
 Then open `index.html` in your browser — or use Live Server in VS Code.
 
------
+---
 
-## 👨‍💻 Author
+## 🎯 Project Purpose
 
-**Hasan Koparan**
+This project was created to practice responsive web design, Bootstrap 5 layout systems, and multi-section page structure as part of my full-stack development training at Udemig.
 
-- GitHub: [@HasanKoparan](https://github.com/HasanKoparan)
-- LinkedIn: [linkedin.com/in/hasankoparan](https://linkedin.com/in/hasankoparan)
+---
 
------
+## 👤 Author
 
-> Built as part of a fullstack development program — cloning a real-world education platform to practice SCSS architecture and responsive design. 💪
+**Hasan Koparan**  
+🔗 [GitHub](https://github.com/HasanKoparan)
